@@ -1,0 +1,14 @@
+.head0 {
+	background-color: green;
+	color: blue;
+	padding: 10px;
+	
+}
+.head2 {
+	th, td{
+			border: solid black;
+			border-radius: 20px;
+	}
+	
+
+}
